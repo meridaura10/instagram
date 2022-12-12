@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/instagram/static/css/main.d4d889c7.css",
-    "main.js": "/instagram/static/js/main.39f6ee6b.js",
+    "main.css": "/instagram/static/css/main.a6cdc879.css",
+    "main.js": "/instagram/static/js/main.5a4520a8.js",
     "index.html": "/instagram/index.html",
-    "main.d4d889c7.css.map": "/instagram/static/css/main.d4d889c7.css.map",
-    "main.39f6ee6b.js.map": "/instagram/static/js/main.39f6ee6b.js.map"
+    "main.a6cdc879.css.map": "/instagram/static/css/main.a6cdc879.css.map",
+    "main.5a4520a8.js.map": "/instagram/static/js/main.5a4520a8.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4d889c7.css",
-    "static/js/main.39f6ee6b.js"
+    "static/css/main.a6cdc879.css",
+    "static/js/main.5a4520a8.js"
   ]
 }
